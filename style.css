@@ -202,7 +202,7 @@ img {
 }
 @keyframes text_reveal{
     100% {
-        color: white;
+        color: black;
     }
 }
 @keyframes text_reveal_name{
